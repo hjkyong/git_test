@@ -1,0 +1,16 @@
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.csproj.AssemblyReference.cache
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.AssemblyInfoInputs.cache
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.AssemblyInfo.cs
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.csproj.CoreCompileInputs.cache
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\git_test.exe
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\git_test.deps.json
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\git_test.runtimeconfig.json
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\git_test.runtimeconfig.dev.json
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\git_test.dll
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\ref\git_test.dll
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\bin\Debug\net5.0\git_test.pdb
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.dll
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\ref\git_test.dll
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.pdb
+C:\Users\Kyong Hongjoon\Desktop\git_test\git_test\obj\Debug\net5.0\git_test.genruntimeconfig.cache
